@@ -52,4 +52,7 @@
 ;;
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
+
+;; how do I remap vim keys like 'L' and 'H' to jump to start/end of a line?
+;; 
 (add-to-list 'auto-mode-alist '("\\.tsx\\'" . typescript-mode))
